@@ -6,7 +6,7 @@ Use this template repository to quickly spin up a Vote Uncommitted campaign webs
 2. Revise the content for your state; key files: `_config.yml`, `index.html`, and `faq.md`
 3. Adjust styles in `css/styles.scss`
 4. Swap the graphics in the `assets` folder
-5. Ensure you add needed legal compliance disclaimers to the website due to campaign regulation
+5. Ensure you add needed legal compliance disclaimers to the website due to campaign regulation; swap out national in footer for your chapter if incorporated
 
 Built with [Jekyll](http://jekyllrb.com).
 
